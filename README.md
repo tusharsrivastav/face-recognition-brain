@@ -82,5 +82,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 This project is currently in development. Expect frequent updates and changes.
 
 ```bash
-Replace `https://github.com/yourusername/facerecognitionbrain.git` with your actual GitHub repository URL. This README file covers the basic structure and usage of your project, and it's designed to be clear and helpful for anyone looking to understand or contribute to your project.
+Replace `https://github.com/yourusername/facerecognitionbrain.git` with your actual GitHub repository URL.
 ```
